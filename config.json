@@ -1,0 +1,10 @@
+{
+    "app_id": "com.grofers.customerapp",
+    "batch_size": 10000,
+    "target": 100000,
+    "rate_limit": 0.75,
+    "mongo_url": "mongodb://localhost:27017/",
+    "database_name": "DAP_Blinkit",
+    "collection_name": "DAP_Blinkit_Reviews",
+    "write": true
+}
